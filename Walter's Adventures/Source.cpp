@@ -27,8 +27,7 @@ int main(int argc, char* argv[])
 
 
 
-	SDL_DestroyRenderer(ren_Logvinov);
-	SDL_DestroyWindow(win_Logvinov);
+
 	SDL_Quit();
 	return 0;
 }
